@@ -1,0 +1,6 @@
+authentication & authentication
+fields
+name
+email
+password
+confirm password
